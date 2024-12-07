@@ -40,7 +40,7 @@ function App() {
             margin: 0,
             opacity: '0.9'
           }}>
-            This is hosted on Ubuntu server (NodeJS...React.js)
+            This is hosted on Ubuntu server (NodeJS...React.js and more)
           </p>
         </div>
       </header>
